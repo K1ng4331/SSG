@@ -1,3 +1,25 @@
+--[[
+   _____ 
+  / ____|
+ | (___  
+  \___ \ 
+  ____) |
+ |_____/ 
+   _____ 
+  / ____|
+ | (___  
+  \___ \ 
+  ____) |
+ |_____/ 
+  __ _   
+ / _` |  
+  (_| |  
+ \__, |  
+  __/ |  
+ |___/    
+
+]]
+
 local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/shlexware/Orion/main/source")))()
 
 OrionLib:MakeNotification(
